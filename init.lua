@@ -18,7 +18,7 @@ local config = {
   },
 
   -- Set colorscheme
-  colorscheme = "dracula",
+  colorscheme = "nord",
 
   -- set vim options here (vim.<first_key>.<second_key> =  value)
   options = {
@@ -79,7 +79,7 @@ local config = {
       -- ["goolord/alpha-nvim"] = { disable = true },
 
       -- You can also add new plugins here as well:
-      { "andweeb/presence.nvim", "Mofiqul/dracula.nvim"},
+      { "andweeb/presence.nvim", "Mofiqul/dracula.nvim", "arcticicestudio/nord-vim"},
       -- {
       --   "ray-x/lsp_signature.nvim",
       --   event = "BufRead",
