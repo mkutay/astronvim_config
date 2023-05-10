@@ -13,4 +13,12 @@ return {
   "Mofiqul/dracula.nvim", 
   "shaunsingh/nord.nvim", 
   "lervag/vimtex",
+  {
+    "rareitems/printer.nvim",
+    config = function()
+      require('printer').setup({
+        keymap = "gp" -- Plugin doesn't have any keymaps by default
+      })
+    end,
+  },
 }
