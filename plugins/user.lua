@@ -9,7 +9,6 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-  "andweeb/presence.nvim",
   "Mofiqul/dracula.nvim", 
   "shaunsingh/nord.nvim", 
   "lervag/vimtex",
