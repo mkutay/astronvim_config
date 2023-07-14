@@ -10,7 +10,8 @@ return {
   --   end,
   -- },
   "Mofiqul/dracula.nvim", 
-  "shaunsingh/nord.nvim", 
+  -- "shaunsingh/nord.nvim", 
+  "catppuccin/nvim",
   "lervag/vimtex",
   {
     "rareitems/printer.nvim",
